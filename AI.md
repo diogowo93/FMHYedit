@@ -197,6 +197,7 @@
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
+* [Prodia](https://app.prodia.com/art-ai) - AI Image Generator
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - AI Image Generation Colab
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
